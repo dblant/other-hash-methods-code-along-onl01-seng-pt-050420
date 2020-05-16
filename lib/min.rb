@@ -15,4 +15,5 @@ def get_the_min(groceries)
   meat: ["chicken", "steak", "salmon"],
   grains: ["rice", "pasta"]
 }
+
 end
